@@ -13,7 +13,7 @@ taxonomies:
 menu:
     main:
         - name: Lesson Plans
-          url: books/
+          url: lessonplans/
           weight: 5 
         - name: Classroom Resources
           url: papers/
