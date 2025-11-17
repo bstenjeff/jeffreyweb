@@ -1,5 +1,5 @@
 baseURL: "https://bstenjeff.github.io/jeffreyweb/" 
-title: Moritz-Maria von Igelfeld
+title: Mrs. Jeffrey
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,19 +12,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Lesson Plans
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Classroom Resources
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Google Sheets Tools
           url: courses/
           weight: 3
-        - name: Data
+        - name: AI for Teachers
           url: data/
           weight: 4 
-        - name: Blog
+        - name: Contact
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
 
